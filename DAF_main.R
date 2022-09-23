@@ -22,7 +22,7 @@ library(xlsx)
 library(stats)
 library(compareGroups)
 
-load('/Users/alebedev/Dropbox/AndresOtilia_anonymized.rda')
+load('/Users/alebedev/Dropbox/DAF_anonymized.rda')
 
 # Creating a binary factor defining psychedelic user group {False;True}
 ALLFU_ocean_wDemogr$PSY_group <- ALLFU_ocean_wDemogr$PSY_prox > 1
