@@ -5,7 +5,7 @@ library(lavaan)
 # Invariance testing in response to reviewer's comments
 # Date: 2023-08-16
 
-load('/Users/alebedev/Dropbox/DAF_extended_data.rda')
+load('DAF_extended_data.rda')
 
 
 #CMQ:
